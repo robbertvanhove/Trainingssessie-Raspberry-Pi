@@ -24,6 +24,20 @@ Wij hebben voor jullie het besturingssysteem vooraf al geïnstalleerd. Als je di
 * klik vervolgens op "delen" en vink de eerste checkbox aan
 
 ![Wifi](wifi2.png)
+### 3. Verbinden met je Raspberry Pi via Putty
+* Verbind eerst je pc en je Raspberry Pi via een netwerkkabel
+* Open Putty
+
+![Putty](Putty1.png)
+* Vul als IP-adres 192.168.137.2 in en zorg er zeker voor dat de poortnummer 22 is.
+
+![Putty](Putty2.png)
+* Klik nu op "Open"
+
+![Putty](Putty3.png)
+* Vervolgens krijg je een login scherm te zien. Standaard  is de gebruikersnaam "pi" en het wachtwoord "raspberry"
+
+![Putty](Putty4.png)
 
 
 
