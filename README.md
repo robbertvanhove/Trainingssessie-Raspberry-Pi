@@ -66,13 +66,16 @@ Je krijgt volgend scherm te zien:
 ## 3. De nodige libraries installeren
 Vooraleer we effectief gaan werken met onze Pi, moeten er eerst enkele dingen geïnstalleerd worden.
 
-Voer volgende commando's uit in Putty
+Voer volgende commando's uit in Putty:
 
 ```
 sudo apt-get update
 sudo apt-get install python-dev
 sudo apt-get install python-rpi.gpio
 ```
+
+## 4. Ledje aansturen
+https://./Scripts
 
 
 
