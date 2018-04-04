@@ -17,5 +17,14 @@ Wij hebben voor jullie het besturingssysteem vooraf al geïnstalleerd. Als je di
 * Kies voor "Het volgende IP-adres gebruiken" en vul vervolgens 192.168.137.1 in als IP-adres en 255.255.255.0 al subnetmasker en klik op "OK"
 
 ![Adapterinstellingen](adapterinstelling4.png)
+### 2. Deel je Wi-Fi
+* Klik met je rechtermuisknop op je wifi-verbinding en kies "eigenschappen"
+
+![Wifi](wifi1.png)
+* klik vervolgens op "delen" en vink de eerste checkbox aan
+
+![Wifi](wifi2.png)
+
+
 
 
