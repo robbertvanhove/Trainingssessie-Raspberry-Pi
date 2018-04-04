@@ -6,12 +6,16 @@ Wij hebben voor jullie het besturingssysteem vooraf al geïnstalleerd. Als je di
 ### 1. Verander het IP-adres van je netwerkkaart
 * Ga naar configuratiescherm > netwerk en internet > netwerkcentrum
 * Klik hier op adapterinstellingen wijzigen
+
 ![Adapeterinstellingen](adapterinstelling1.png)
 * Klik met de rechtermuisknop op de adapter van je ethernet-poort en kies dan eigenschappen
+
 ![Adapeterinstellingen](adapterinstelling2.png)
 * Selecteer vervolgens "Internet Protocol versie 4" en klik op eigenschappen
+
 ![Adapeterinstellingen](adapterinstelling3.png)
 * Kies voor "Het volgende IP-adres gebruiken" en vul vervolgens 192.168.137.1 in als IP-adres en 255.255.255.0 al subnetmasker en klik op "OK"
+
 ![Adapeterinstellingen](adapterinstelling4.png)
 
 
