@@ -75,7 +75,11 @@ sudo apt-get install python-rpi.gpio
 ```
 
 ## 4. Ledje aansturen
-https://./Scripts
+Het script om het ledje aan te sturen vind je [hier](https://github.com/robbertvanhove/Trainingssessie-Raspberry-Pi/blob/master/Scripts/led.py)
+
+
+## 5. Installatie CGI-server
+
 
 
 
