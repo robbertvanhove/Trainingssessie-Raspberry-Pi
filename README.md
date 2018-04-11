@@ -1,5 +1,5 @@
 # Trainingssessie Raspberry Pi
-Onze introductie Powerpoint kan je [hier](https://github.com/robbertvanhove/Trainingssessie-Raspberry-Pi/blob/master/Presentaties/rpi.pptx) terugvinden
+Onze introductie Powerpoint kan je [hier](https://github.com/robbertvanhove/Trainingssessie-Raspberry-Pi/blob/master/Presentaties/Rpi.pptx) terugvinden
 ## 1. Installatie raspbian
 Wij hebben voor jullie het besturingssysteem vooraf al geïnstalleerd. Als je dit zelf eens wil uitproberen, kan je volgende handleiding volgen: https://www.raspberrypi.org/documentation/installation/installing-images/README.md
 
