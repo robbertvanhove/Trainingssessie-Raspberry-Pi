@@ -1,4 +1,5 @@
 # Trainingssessie Raspberry Pi
+Onze introductie Powerpoint kan je [hier](https://github.com/robbertvanhove/Trainingssessie-Raspberry-Pi/blob/master/presentaties/rpi.pptx) terugvinden
 ## 1. Installatie raspbian
 Wij hebben voor jullie het besturingssysteem vooraf al geïnstalleerd. Als je dit zelf eens wil uitproberen, kan je volgende handleiding volgen: https://www.raspberrypi.org/documentation/installation/installing-images/README.md
 
@@ -77,12 +78,28 @@ sudo apt-get install python-rpi.gpio
 ## 4. Ledje aansturen
 Het script om het ledje aan te sturen vind je [hier](https://github.com/robbertvanhove/Trainingssessie-Raspberry-Pi/blob/master/Scripts/led.py)
 
+### Commando's
+Rechten wijzigen:
+`sudo chmod u+x led.py`
+Script uitvoeren:
+`sudo python led.py`
+
 
 ## 5. Installatie CGI-server
-
-
-
-
-
+```
+mkdir server
+cd server
+mkdir cgi-bin
+```
+Server starten: 
+`python -m CGIHTTPServer 8080`
+Server stoppen:
+ctrl+c
+## 6. Ledje aansturen via browser
+* Maak een nieuw script 'ledtest.py' en plaats het in de map 'cgi-bin'
+* Plaats de code uit [deze link](https://github.com/robbertvanhove/Trainingssessie-Raspberry-Pi/blob/master/Scripts/ledtest.py) in het bestand.
+* Start de cgi-server in de map 'server'.
+* Om het lampje aan te zetten surf je in je browser naar http://192.168.137.2:8080/cgi-bin/ledtest.py?1
+* Om het uit te zetten surf je naar http://192.168.137.2:8080/cgi-bin/ledtest.py?0
 
 
