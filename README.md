@@ -107,4 +107,6 @@ ctrl+c
 * Plaats de code uit [deze link](https://github.com/robbertvanhove/Trainingssessie-Raspberry-Pi/blob/master/Scripts/ledtest.py) in het bestand
 * Surf naat http://192.168.137.1/server/index.html 
 
+We willen dit natuurlijk met een mooie interface doen. Maak een bestand in de map server genaamd "index.html" en plaats er de code uit [deze link]() in
+
 
