@@ -76,7 +76,8 @@ sudo apt-get install python-rpi.gpio
 ```
 
 ## 4. Ledje aansturen
-Het script om het ledje aan te sturen vind je [hier](https://github.com/robbertvanhove/Trainingssessie-Raspberry-Pi/blob/master/Scripts/led.py)
+De presentatie over de aansluiting kan je [hier](https://github.com/robbertvanhove/Trainingssessie-Raspberry-Pi/blob/master/Presentaties/Aansluiting-PI.pptx) downloaden.
+Het script om het ledje aan te sturen vind je [hier](https://github.com/robbertvanhove/Trainingssessie-Raspberry-Pi/blob/master/Scripts/led.py).
 
 ### Commando's
 Rechten wijzigen:
