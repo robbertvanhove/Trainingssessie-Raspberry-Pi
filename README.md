@@ -102,4 +102,9 @@ ctrl+c
 * Om het lampje aan te zetten surf je in je browser naar http://192.168.137.2:8080/cgi-bin/ledtest.py?1
 * Om het uit te zetten surf je naar http://192.168.137.2:8080/cgi-bin/ledtest.py?0
 
+### Aansturing via webpagina
+* Maak een nieuw bestand 'index.html' en plaats het in de map 'server'
+* Plaats de code uit [deze link](https://github.com/robbertvanhove/Trainingssessie-Raspberry-Pi/blob/master/Scripts/ledtest.py) in het bestand
+* Surf naat http://192.168.137.1/server/index.html 
+
 
